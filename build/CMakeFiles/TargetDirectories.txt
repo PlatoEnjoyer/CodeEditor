@@ -1,0 +1,4 @@
+C:/Users/user/Desktop/pet_projects/code_editor/build/CMakeFiles/code_editor.dir
+C:/Users/user/Desktop/pet_projects/code_editor/build/CMakeFiles/CopyStyles.dir
+C:/Users/user/Desktop/pet_projects/code_editor/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/pet_projects/code_editor/build/CMakeFiles/ZERO_CHECK.dir

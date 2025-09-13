@@ -1,0 +1,59 @@
+/* styles/dark.qss */
+
+/* Общие настройки */
+QWidget {
+    background-color: #2b2b2b;
+    color: #ffffff;
+    font-family: Arial;
+}
+
+/* Кнопки */
+QPushButton {
+    background-color: #3c3c3c;
+    border: 1px solid #555555;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+QPushButton:hover {
+    background-color: #4a4a4a;
+}
+
+QPushButton:pressed {
+    background-color: #2a2a2a;
+}
+
+/* Меню бар */
+QMenuBar {
+    background-color: #252525;
+    color: white;
+    spacing: 3px;
+}
+
+QMenuBar::item {
+    padding: 5px;
+}
+
+QMenuBar::item:selected {
+    background-color: #3d3d3d;
+}
+
+/* Статус бар */
+QStatusBar {
+    background-color: #252525;
+    color: #aaaaaa;
+}
+
+/* Рамки */
+QFrame {
+    border: 1px solid #444;
+}
+
+/* Инпуты (если будут QLineEdit и т.п.) */
+QLineEdit {
+    background-color: #333;
+    border: 1px solid #555;
+    padding: 4px;
+    border-radius: 3px;
+    color: white;
+}
